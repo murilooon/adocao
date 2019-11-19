@@ -1,0 +1,13 @@
+body {
+    background-image: url("dog1.jpeg");
+    background-color: #cccccc;
+}
+
+.navbar {
+    background-color: #89cff0;
+}
+
+.text-center::before{
+    content:"";
+    margin-left:calc(100% - 75%);
+  }
