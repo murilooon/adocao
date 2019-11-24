@@ -4,10 +4,16 @@ body {
 }
 
 .navbar {
-    background-color: #89cff0;
+    background-color: #4169e1;
 }
 
-.text-center::before{
+.text-center::before {
     content:"";
     margin-left:calc(100% - 75%);
-  }
+}
+
+.btn-secondary, .dropdown-menu{    
+    width: 300px;
+    text-align: left;
+    color: black;
+}
