@@ -1,4 +1,4 @@
-body {
+#main {
     background-image: url("dog1.jpeg");
     background-color: #cccccc;
 }
@@ -16,4 +16,16 @@ body {
     width: 300px;
     text-align: left;
     color: black;
+}
+
+#titulo {
+    font-size: 40px;
+    color: #4169e1;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#sub {
+    font-size: 30px;
+    color: #5cb85c;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
