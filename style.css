@@ -3,6 +3,26 @@
     background-color: #cccccc;
 }
 
+#sec {
+    background-image: url("telas/Tela_mostra.png");
+    background-color: #cccccc;
+}
+
+#ter {
+    background-image: url("telas/Tela_cao.png");
+    background-color: #cccccc;
+}
+
+#botao {
+
+    padding: 290px;
+}
+
+#botao1 {
+
+    padding: 310px;
+}
+
 .navbar {
     background-color: #4169e1;
 }
